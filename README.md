@@ -1,1 +1,1 @@
-# ProgrammingForEveryBody-Specialization
+# ProgrammingDataStructures-Specialization
